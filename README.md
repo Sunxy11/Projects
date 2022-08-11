@@ -19,5 +19,5 @@
 ![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP1.png)
 ![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP2.png)
 
-## 新型社区养老APP
+## 社区养老APP
 Android
