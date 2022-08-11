@@ -16,8 +16,8 @@
 <img src="https://github.com/Sunxy11/Projects/blob/main/Display/JGT.png"  height="300"/><br/>
 
 ## 音乐网站
-<img src="https://github.com/Sunxy11/Projects/blob/main/Display/ASP1.png"/><br/>
-<img src="https://github.com/Sunxy11/Projects/blob/main/Display/ASP2.png"/><br/>
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP1.png)
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP2.png)
 
 ## 新型社区养老APP
 Android
