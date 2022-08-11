@@ -14,6 +14,7 @@
 
 ## JustGetTen
 本项目利用高级程序设计 Python /Pycharm 语言编写了一款合到十游戏。玩家的主要目标是得到数字10。玩家点击相连相同数字中的任意一个，这些位置的数字会被合并到点击的位置，合并后的值为原始值加一，合并后会掉落随机的数字填满整个网格。当前的分数为网格中的最大数字，玩家可以随时退出或重玩游戏。
+
 <img src="https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/JGT.png"  height="300"/><br/>
 
 ## 音乐网站
