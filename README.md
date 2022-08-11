@@ -10,13 +10,14 @@
 
 ## Kula World
 本项目利用Unity语言编写，是一款通关类3D游戏。每一关的主要目标是在规定时间内达到预定的分数并收集钥匙到达出口通过关卡。每个关卡中会有不同的障碍物，如移动的小球、触碰会回到游戏原点的机关等，此外，还有水果、金币等不同分数奖励以及冻结时间的胶囊。用户可以通过上下键来控制球体的前后移动，通过空格键向上跳跃，通过WASD键来控制相机的视角。当收获奖励或碰到障碍时会有不同的音效。
-![Watch the video](https://github.com/Sunxy11/Projects/blob/main/Display/KHET.mp4)
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/KW.png)
 
 ## JustGetTen
-![Watch the video]()
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/JGT.png)
 
 ## 音乐网站
-![Watch the video]()
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP1.png)
+![image](https://github.com/Sunxy11/Projects/blob/main/Display/ASP2.png)
 
 ## 新型社区养老APP
 Android
