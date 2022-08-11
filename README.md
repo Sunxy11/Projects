@@ -13,8 +13,7 @@
 ![image](https://github.com/Sunxy11/Projects/blob/main/Display/KW.png)
 
 ## JustGetTen
-![image](https://github.com/Sunxy11/Projects/blob/main/Display/JGT.png)
-<img src="https://github.com/Sunxy11/Projects/blob/main/Display/JGT.png" width="200" height="200"/><br/>
+<img src="https://github.com/Sunxy11/Projects/blob/main/Display/JGT.png"  height="400"/><br/>
 ————————————————
 版权声明：本文为CSDN博主「乘风v」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/a1441574/article/details/105752289
