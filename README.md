@@ -20,12 +20,14 @@
 <img src="https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/JGT.png"  height="300"/><br/>
 
 ## 4. Music Website
-本项目利用ASP.NEt实现了一个简易的音乐网站。用户可以登录注册，还可以选择保持自己的登录状态。用户可以切换主题颜色（黑色或白色），可以创建歌单并将喜欢的音乐添加到歌单中，删除一个或多个歌单/音乐，播放/切换/暂停音乐。
+本项目利用ASP.NEt实现了一个简易的音乐网站。含有以下功能：登录注册，保持登录状态，切换主题颜色（黑色或白色），创建歌单并将喜欢的音乐添加到歌单中，删除一个或多个歌单/音乐，播放/切换/暂停音乐。
 
 ![image](https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP1.png)
 ![image](https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP2.png)
 
-## 5. 社区养老APP
-Android
+## 5. 基于互联网技术的社区养老管理服务系统V1.0
+本项目被评为2018年大学生创新创业项目国家级（可在官网查询）并申请了软著。 
+项目初期三次走访天津市北辰区佳荣里社区，与社区管理人员了解社区的基本情况、管理上的困难等，根据需求确定APP的功能模块。
+本项目利用 Java 语言，编写了一款基于 Android 的社区养老管理 APP，以智能便捷的方式记录居民的爱心点数，同时包含一键打卡、活动信息、心愿的发布等模块。
 
 <img src="https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/myAPP.jpg"  height="600"/><br/>
