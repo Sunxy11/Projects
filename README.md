@@ -22,8 +22,8 @@
 ## 4. Music Website
 本项目利用ASP.NET实现了一个简易的音乐网站。含有以下功能：登录注册，保持登录状态，切换主题颜色（黑色或白色），创建歌单并将喜欢的音乐添加到歌单中，删除一个或多个歌单/音乐，播放/切换/暂停音乐。
 
-![image](https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP1.jpg)
-![image](https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP2.jpg)
+<img src="https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP1.jpg"  height="300"/><br/>
+<img src="https://github.com/Sunxy11/Projects2016-2019/blob/main/Display/ASP2.jpg"  height="300"/><br/>
 
 ## 5. 基于互联网技术的社区养老管理服务系统V1.0
 本项目被评为2018年大学生创新创业项目国家级（可在官网查询）并申请了软著。
